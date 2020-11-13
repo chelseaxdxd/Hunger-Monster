@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{1F9B9B03-1FC3-9145-ACCC-E8305EDCBBA0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/HpText.cs">
+    <Files>
+      <File FileName="Assets/scripts/Move2D.cs" Line="10" Column="20" />
+      <File FileName="Assets/scripts/Grounded.cs" Line="27" Column="1" />
+      <File FileName="Assets/scripts/Coin.cs" Line="10" Column="10" />
+      <File FileName="Assets/scripts/ScoreText.cs" Line="19" Column="43" />
+      <File FileName="Assets/scripts/Move2D_slope.cs" Line="5" Column="26" />
+      <File FileName="Assets/scripts/CameraControl.cs" Line="18" Column="57" />
+      <File FileName="Assets/scripts/Scroll.cs" Line="20" Column="66" />
+      <File FileName="Assets/scripts/HpText.cs" Line="21" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
